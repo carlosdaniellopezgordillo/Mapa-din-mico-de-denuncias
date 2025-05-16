@@ -49,4 +49,4 @@ pip install -r requirements.txt
 
 
 Ejecutar la aplicación:
-streamlit run mapa_con_graficos.py
+streamlit run mapa_denuncias.py
