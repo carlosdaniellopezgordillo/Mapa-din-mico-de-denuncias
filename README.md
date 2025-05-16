@@ -38,3 +38,15 @@ Este proyecto es una aplicación interactiva desarrollada con Streamlit que mues
 ```bash
 git clone https://github.com/tu_usuario/tu_repositorio.git
 cd tu_repositorio
+
+Crear y activar un entorno virtual (opcional pero recomendado):
+python -m venv env
+source env/bin/activate   # En Windows: env\Scripts\activate
+
+
+Instalar dependencias:
+pip install -r requirements.txt
+
+
+Ejecutar la aplicación:
+streamlit run mapa_con_graficos.py
